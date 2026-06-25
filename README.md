@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-ombre-me-suit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ton Ombre Me Suit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-ombre-me-suit/) |
+| **Get License** | [Obtain a Music License for Ton Ombre Me Suit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-ombre-me-suit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum flotte dans l'air, baby I can't resist
+> Sous les néons de Paris, c'est toi que je vise
+> Ton ombre me suit, dansant sur le pavé
+> Viens plus près de moi, laisse-toi t'abandonner
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
